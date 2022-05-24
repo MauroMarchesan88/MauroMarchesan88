@@ -5,9 +5,9 @@
 - 📫 How to reach me @Mauro_Marchesan88
 
 
-![Gmail_Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail_Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[![Linkedin Badge](https://img.shields.io/badge/-MauroMarchesan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-marchesan-73949aa4/)](https://www.linkedin.com/in/mauro-marchesan-73949aa4/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-MauroMarchesan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-marchesan-73949aa4/)](https://www.linkedin.com/in/mauro-marchesan-73949aa4/)
+
 
 <!---
 MauroMarchesan88/MauroMarchesan88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
