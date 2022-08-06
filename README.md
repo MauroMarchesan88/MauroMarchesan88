@@ -12,11 +12,8 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2b6b50702c658cdfcf440cef1eb88c7e0e5a16ce0eb6ab8bc933da7697c12213/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656475782f72656475782d6f726967696e616c2e737667"><img align="center" alt="Redux" height="40" width="50" src="https://camo.githubusercontent.com/2b6b50702c658cdfcf440cef1eb88c7e0e5a16ce0eb6ab8bc933da7697c12213/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656475782f72656475782d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fc836983ed18b80caef906c8f1593bcfd4f5c8c587f51a911b1cb4d657a9588b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2d776f72646d61726b2e737667"><img align="center" alt="Docker" height="40" width="50" src="https://camo.githubusercontent.com/fc836983ed18b80caef906c8f1593bcfd4f5c8c587f51a911b1cb4d657a9588b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2d776f72646d61726b2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="max-width: 100%;"></a>
 
-<!---
-MauroMarchesan88/MauroMarchesan88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauromarchesan88&show_icons=true&theme=tokyonight)
+<a align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauromarchesan88&show_icons=true&theme=tokyonight)</a> 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauromarchesan88&theme=tokyonight&langs_count=10)
 
-<a href="https://app.daily.dev/Mauro88"><img src="https://api.daily.dev/devcards/046b9c796c1a4c5e9f3093a286ea5f03.png?r=5gn" width="400" alt="Mauro Marchesan's Dev Card"/></a>
+<a href="https://app.daily.dev/Mauro88"><img src="https://api.daily.dev/devcards/046b9c796c1a4c5e9f3093a286ea5f03.png?r=5gn" width="250" alt="Mauro Marchesan's Dev Card"/></a>
