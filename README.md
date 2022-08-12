@@ -14,6 +14,6 @@
 
 <a align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauromarchesan88&show_icons=true&theme=tokyonight)</a> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauromarchesan88&theme=tokyonight&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauromarchesan88&theme=tokyonight&langs_count=10) <a href="https://app.daily.dev/Mauro88"><img src="https://api.daily.dev/devcards/046b9c796c1a4c5e9f3093a286ea5f03.png?r=5gn" width="250" alt="Mauro Marchesan's Dev Card"/></a>
 
-<a href="https://app.daily.dev/Mauro88"><img src="https://api.daily.dev/devcards/046b9c796c1a4c5e9f3093a286ea5f03.png?r=5gn" width="250" alt="Mauro Marchesan's Dev Card"/></a>
+
