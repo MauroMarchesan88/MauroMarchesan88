@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MauroMarchesan88
+- 👋 Hi, I’m Mauro
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning HTML, CSS, Javascript, SQL and a lil'bit on Python
 - 💞️ I’m looking to collaborate on whatever i can help
