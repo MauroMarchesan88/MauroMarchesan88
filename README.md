@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-MauroMarchesan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-marchesan-73949aa4/)](https://www.linkedin.com/in/mauro-marchesan-73949aa4/)  
 
-[Meu Portfolio](https://portfolio-mauro.netlify.app/)
+[My Portfolio](https://portfolio-mauro.netlify.app/)
 
 <img class="emoji" alt="wrench" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png"> Technologies and Tools I use:
 <img align="center" alt="JavaScript" height="30" width="40" src="https://camo.githubusercontent.com/528e232c728b497080cbf31d2a7e797caa81e402ff81643f79b2c2c395a29f17/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width: 100%;"><img align="center" alt="Jest" height="40" width="50" src="https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="max-width: 100%;">
