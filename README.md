@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mauro
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in improving processes and solving problems!
 - 🌱 I’m currently learning Clojure, Kafka, Cassandra and a OOP on Python
 - 💞️ I’m looking to collaborate on whatever i can help
 
