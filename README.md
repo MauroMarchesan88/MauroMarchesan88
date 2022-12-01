@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mauro
 - 👀 I’m interested in improving processes and solving problems!
-- 🌱 I’m currently learning Clojure, Kafka, Cassandra and a OOP on Python
+- 🌱 I’m currently learning Clojure, Kafka, Cassandra and OOP on Python
 - 💞️ I’m looking to collaborate on whatever i can help
 
 [![Linkedin Badge](https://img.shields.io/badge/-MauroMarchesan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-marchesan-73949aa4/)](https://www.linkedin.com/in/mauro-marchesan-73949aa4/)  
